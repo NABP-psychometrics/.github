@@ -1,4 +1,4 @@
-# National Association of Boards of Pharmacy - Psychometrics & Research 
+
 
 ![NABP-logo](./profile/NABP_Master_Logo_2c.png)
 
